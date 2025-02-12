@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Bruna.
+
+### Front-end Developer with experience in UI Design
+
+- 🔭 I’m currently working on ...
 
 <!--
 **brunaboeger/brunaboeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
