@@ -6,8 +6,8 @@ Passionate about creating new experiences, my motivation comes from the desire t
 
 ## What I've been doing
 
-- 🔭 I’m currently working on [**my porfolio website**](brunaboeger.dev.br) 
-- 🌱 I am taking Filipe Deschamps' course, [**curso.dev**](curso.dev)
+- 🔭 I’m currently working on [**my porfolio website**](https://brunaboeger.dev.br/) 
+- 🌱 I am taking Filipe Deschamps' course, [**curso.dev**](https://curso.dev)
 
 <!--
 **brunaboeger/brunaboeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
