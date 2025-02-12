@@ -9,6 +9,11 @@ Passionate about creating new experiences, my motivation comes from the desire t
 - 🔭 I’m currently working on [**my porfolio website**](https://brunaboeger.dev.br/) 
 - 🌱 I am taking Filipe Deschamps' course, [**curso.dev**](https://curso.dev), and we're working on [clone-tabnews](https://github.com/brunaboeger/clone-tabnews)
 
+## Projects to the future
+
+- 📑 Text Editor: an editor for writers
+- 📑 Finnap: a simplified finance's app
+
 <!--
 **brunaboeger/brunaboeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
