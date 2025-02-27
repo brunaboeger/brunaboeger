@@ -8,6 +8,7 @@ Passionate about creating new experiences, my motivation comes from the desire t
 
 - 🔭 I’m currently working on [**my porfolio website**](https://brunaboeger.dev.br/) 
 - 🌱 I am taking Filipe Deschamps' course, [**curso.dev**](https://curso.dev), and we're working on [clone-tabnews](https://github.com/brunaboeger/clone-tabnews)
+- 🌱 I recently participate in the [**Full Stack Week**](https://fullstackclub.com.br/) event
 
 ## Projects to the future
 
